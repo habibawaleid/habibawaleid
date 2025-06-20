@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Habiba Waleid
-I'm a junior Software Tester with a passion for both **Manual** and **Automation Testing**, and a background in teaching **Anatomy** and **Physics** at Mansoura University.
+I'm a junior Software Tester with a passion for both **Manual** and **Automation Testing**.
 ## 🛠️ Technical Skills:
 - ✅ Manual Testing (Test cases, test scenarios, bug reporting)
 - 🤖 Automation Testing (beginner level)
